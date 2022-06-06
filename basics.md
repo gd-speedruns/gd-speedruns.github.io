@@ -20,6 +20,6 @@ The Autosplitter on PC requires the <u>Percentage Bar</u> setting with <u>Show P
 
 You will want to have Smooth fix <u>off</u> in almost all circumstances: This setting causes the game to slow down if the game is lagging instead of dropping frames, which will always lose time. The setting has utility in some very specific situations, but in general it is best to have it off.
 
-If you are running a [categories/demons.md](Demon) category, the timing method is with loads, so minimizing load times is important. For this, you will want to <u>turn off</u> both <u>Load Songs to Memory</u> and <u>High Capacity Mode</u>. Additionally, to fully minimize load times you will want to remove or avoid downloading songs if possible so loading the song is not required (this is particularly important if the song exceeds 8MB in size)
+If you are running a [Demon](categories/demons.md) category, the timing method is with loads, so minimizing load times is important. For this, you will want to <u>turn off</u> both <u>Load Songs to Memory</u> and <u>High Capacity Mode</u>. Additionally, to fully minimize load times you will want to remove or avoid downloading songs if possible so loading the song is not required (this is particularly important if the song exceeds 8MB in size)
 
 Finally, it may not have a significant effect but setting Graphics Quality to <u>Low</u> and enabling <u>Low Detail Mode</u> can improve FPS and lag on lower-end setups.
