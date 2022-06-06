@@ -1,5 +1,5 @@
 # Stereo Madness
-![Stereo Madness](https://static.wikia.nocookie.net/geometry-dash/images/f/f7/StereoMadness.png/revision/latest/scale-to-width-down/350?cb=20170706225311)
+![Stereo Madness](images/sm-0.png)
 
 ### Times
 Time: 1:25.54
@@ -10,13 +10,16 @@ Time: 1:25.54
 
 ## Coin Routes
 1. <span style="color:green">Easy.</span> Drop down at 49%.
-![First Coin](https://static.wikia.nocookie.net/geometry-dash/images/e/e4/StereoMadnessSecretCoin1.png/revision/latest/scale-to-width-down/250?cb=20170704035457)
+
+![First Coin](images/sm-1.png)
 
 2. <span style="color:green">Easy.</span> Jump above the descending blocks at 74%, and jump on the third block.
-![Second Coin](https://static.wikia.nocookie.net/geometry-dash/images/f/ff/StereoMadnessSecretCoin2.png/revision/latest/scale-to-width-down/250?cb=20170706225205)
+
+![Second Coin](images/sm-2.png)
 
 3. <span style="color:yellow">Medium.</span> Hold up at 89% to enter a secret corridor that leads to the coin.
-![Third Coin](https://static.wikia.nocookie.net/geometry-dash/images/a/af/StereoMadnessSecretCoin3.png/revision/latest/scale-to-width-down/250?cb=20170706225243)
+
+![Third Coin](images/sm-3.png)
 
 ## Minimum Jump Count
 - Cube 1: 29 Jumps
