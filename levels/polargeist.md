@@ -12,15 +12,15 @@ Time: 1:29.59
   - Steamrolling!: Complete alongside [Stereo Madness](stereomadness.md) and [Back on Track](backontrack.md) in normal mode on PC.
 
 ## Coin Routes
-1. <span style="color:green">Easy.</span> Hold up at 43%
+Coin 1. <span style="color:green">Easy.</span> Hold up at 43%
 
 ![First Coin](images/polar-1.png)
 
-2. <span style="color:green">Easy.</span> Fall down at 62% and jump across.
+Coin 2. <span style="color:green">Easy.</span> Fall down at 62% and jump across.
 
 ![Second Coin](images/polar-2.png)
 
-3. <span style="color:red">Hard.</span> Jump earlier than normal at 75% and hit a hidden gravity pad. Hit the next yellow orb as you go up. Be ready to jump as soon as you fall down!
+Coin 3. <span style="color:red">Hard.</span> Jump earlier than normal at 75% and hit a hidden gravity pad. Hit the next yellow orb as you go up. Be ready to jump as soon as you fall down!
 
 ![Third Coin](images/polar-3.png)
 
