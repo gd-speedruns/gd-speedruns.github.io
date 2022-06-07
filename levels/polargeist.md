@@ -27,6 +27,6 @@ Coin 3. <span style="color:red">Hard.</span> Jump earlier than normal at 75% and
 ## Minimum Jump Count
 - Cube 1: 45 Jumps
 - Ship 1: 0 Jumps
-- Cube 2: 73 Jumps
+- Cube 2: 73 Jumps -> Take Coins 2 and 3.
 
 Total: 118 Jumps
