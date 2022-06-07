@@ -5,10 +5,11 @@
 Time: 1:21.15
 
 ## Information
-- Awards 2 stars and 75 mana orbs
-- Has two achievements associated with it:
+- Awards 2 stars and 75 mana orbs upon completion
+- Has three achievements associated with it:
   - On my way: Complete in practice mode.
   - Back On Track!: Complete in normal mode.
+  - Steamrolling!: Complete alongside [Stereo Madness](stereomadness.md) and [Polargeist](polargeist.md) in normal mode on PC.
 
 ## Coin Routes
 1. <span style="color:green">Easy.</span> Drop down at 40% to hit a hidden gravity pad.
