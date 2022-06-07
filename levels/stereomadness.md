@@ -6,9 +6,10 @@ Time: 1:25.54
 
 ## Information
 - Awards 1 star and 50 mana orbs upon completion
-- Has two achievements associated with it:
+- Has three achievements associated with it:
   - Stereo Bump: Complete in practice mode.
   - Stereo Madness!: Complete in normal mode.
+  - Steamrolling!: Complete alongside [Back on Track](backontrack.md) and [Polargeist](polargeist.md) in normal mode on PC.
 
 ## Coin Routes
 1. <span style="color:green">Easy.</span> Drop down at 49%.
