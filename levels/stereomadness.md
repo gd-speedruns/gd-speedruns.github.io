@@ -27,7 +27,7 @@ Coin 3. <span style="color:gold">Medium.</span> Hold up at 89% to enter a secret
 ## Minimum Jump Count
 - Cube 1: 29 Jumps
 - Ship 1: 0 Jumps
-- Cube 2: 48 Jumps -> Take the First Coin, don't take Coin 2.
+- Cube 2: 48 Jumps -> Take Coin 1, don't take Coin 2.
 - Ship 2: 0 Jumps
 
 Total: 77 Jumps
