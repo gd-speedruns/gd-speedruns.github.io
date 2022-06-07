@@ -6,7 +6,9 @@ Time: 1:25.54
 
 ## Information
 - Awards 1 star and 50 mana orbs upon completion
-- Has 2 achievements associated with it (completion of both normal mode and practice mode)
+- Has two achievements associated with it:
+  - Stereo Bump: Complete in practice mode.
+  - Stereo Madness!: Complete in normal mode.
 
 ## Coin Routes
 1. <span style="color:green">Easy.</span> Drop down at 49%.
