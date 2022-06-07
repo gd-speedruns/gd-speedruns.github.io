@@ -17,7 +17,7 @@ Time: 1:25.54
 
 ![Second Coin](images/sm-2.png)
 
-3. <span style="color:yellow">Medium.</span> Hold up at 89% to enter a secret corridor that leads to the coin.
+3. <span style="color:gold">Medium.</span> Hold up at 89% to enter a secret corridor that leads to the coin.
 
 ![Third Coin](images/sm-3.png)
 
