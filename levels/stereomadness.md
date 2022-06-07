@@ -12,15 +12,15 @@ Time: 1:25.54
   - Steamrolling!: Complete alongside [Back on Track](backontrack.md) and [Polargeist](polargeist.md) in normal mode on PC.
 
 ## Coin Routes
-1. <span style="color:green">Easy.</span> Drop down at 49%.
+Coin 1. <span style="color:green">Easy.</span> Drop down at 49%.
 
 ![First Coin](images/sm-1.png)
 
-2. <span style="color:green">Easy.</span> Jump above the descending blocks at 74%, and jump on the third block.
+Coin 2. <span style="color:green">Easy.</span> Jump above the descending blocks at 74%, and jump on the third block.
 
 ![Second Coin](images/sm-2.png)
 
-3. <span style="color:gold">Medium.</span> Hold up at 89% to enter a secret corridor that leads to the coin.
+Coin 3. <span style="color:gold">Medium.</span> Hold up at 89% to enter a secret corridor that leads to the coin.
 
 ![Third Coin](images/sm-3.png)
 
